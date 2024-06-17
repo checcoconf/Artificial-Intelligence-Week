@@ -21,12 +21,12 @@ Per prepararti al meglio, da Lunedì 10 Giugno sarà disponibile il modulo 0, ch
 
 Ogni giorno troverai nuove video lezioni da seguire, per una durata complessiva di 60-90 minuti al giorno. Ecco cosa imparerai durante la settimana:
 
-Lunedì 17 Giugno: Introduzione a Python, variabili e tipi di dati
-Martedì 18 Giugno: Costrutti Python: Istruzioni logiche, cicli e programmazione procedurale
-Mercoledì 19 Giugno: Machine Learning: pre-processing, classificazione binaria, overfitting e metriche di valutazione
-Giovedì 20 Giugno: Deep Learning e reti neurali per la classificazione di immagini
-Venerdì 21 Giugno: Generative AI per la generazione di testo: Transformers e Huggingface
-Sabato 22 e Domenica 23 Giugno: Tempo aggiuntivo per ripassare o recuperare i contenuti pubblicati durante la settimana
+- Lunedì 17 Giugno: Introduzione a Python, variabili e tipi di dati
+- Martedì 18 Giugno: Costrutti Python: Istruzioni logiche, cicli e programmazione procedurale
+- Mercoledì 19 Giugno: Machine Learning: pre-processing, classificazione binaria, overfitting e metriche di valutazione
+- Giovedì 20 Giugno: Deep Learning e reti neurali per la classificazione di immagini
+- Venerdì 21 Giugno: Generative AI per la generazione di testo: Transformers e Huggingface
+- Sabato 22 e Domenica 23 Giugno: Tempo aggiuntivo per ripassare o recuperare i contenuti pubblicati durante la settimana
 
 
 📌 Certificato di partecipazione
